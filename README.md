@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyoRexTech a White Hat Ethical Hacker.
+- 👋 Hi, I’m @AyoRexTech a Blue Hat Cyber Security Engineer who truly believes nothing is impossible because it is all about discovery, research, understanding and application.
 - Please note any apps i create and upload here is for ethical purposes only, and i'm not responsible for anyones actions on how they use the tools.
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security and Networking Level 5 at Gateshead college.
